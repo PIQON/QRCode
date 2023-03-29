@@ -1,13 +1,16 @@
 <p id="readme-top"></p>
 <div align="center">
-  <h3 align="center">News Home Page</h3>
+  <h3 align="center">QR Code Component</h3>
 
   <p align="center">
-     News Home Page based on frontend mentor design..
+     QR Code Component based on frontend mentor design..
     <br />
     <br />
-    <a href="https://ping-single-column-rho.vercel.app/">View Demo</a>
+    <a href="https://piqon.github.io/QRCode/">View a project demo</a>
   </p>
+
+![My Image](images/desktop-preview.jpg)
+
 </div>
 
 <!-- TABLE OF CONTENTS -->
@@ -33,7 +36,7 @@
 
 ## About The Project
 
-News Home Page..
+Scan the QR code and see where it will take you.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -42,10 +45,7 @@ News Home Page..
 Technologies used:
 
 - ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-- ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-- ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-
+- ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -53,21 +53,6 @@ Technologies used:
 
 ## Getting Started
 
-To get a local copy up and running follow these simple example steps.
-
-### Installation
-
-1. Clone the repo
-   ```sh
-   git clone {{GITHUB_CLONE_URL}}
-   ```
-2. Install NPM packages
-   ```sh
-   npm install
-   ```
-3. Run a server
-   ```sh
-   npm run dev
-   ```
+Open a index.html to look at project.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
